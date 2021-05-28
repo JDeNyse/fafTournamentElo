@@ -81,6 +81,7 @@ f.close()
 ratingAppendFile = open("faf_ratings.txt", 'a', newline='', encoding="utf-8")
 appendWriter = csv.writer(ratingAppendFile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)       
 for row in ratings:
+    print(row)
     appendWriter.writerow(row)        
                     
 
