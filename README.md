@@ -13,12 +13,12 @@ How to use:
 
 The data set currently includes 196 games from:
 
-2019 LotS
-2020 Summer Inviational
-2020 Fall Invitational
-2020 LotS
-MapGen Tournament
-2021 Spring Invitational
-2021 April League Invitational
+* 2019 LotS
+* 2020 Summer Inviational
+* 2020 Fall Invitational
+* 2020 LotS
+* MapGen Tournament
+* 2021 Spring Invitational
+* 2021 April League Invitational
 
 Qualifier tournaments are generally excluded from the dataset.
