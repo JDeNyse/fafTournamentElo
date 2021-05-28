@@ -11,10 +11,10 @@ How to use:
 3. Run fafelo.py
 
 
-The data set currently includes 196 games from:
+The data set currently includes 196 series from:
 
 * 2019 LotS
-* 2020 Summer Inviational
+* 2020 Summer Invitational
 * 2020 Fall Invitational
 * 2020 LotS
 * MapGen Tournament
